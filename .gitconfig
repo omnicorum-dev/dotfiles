@@ -1,0 +1,6 @@
+[user]
+	name = Nico Russo
+	email = nicojrusso@gmail.com
+[init]
+    default = branch
+    defaultBranch = main
