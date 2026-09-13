@@ -1,0 +1,1 @@
+("~/Development/dotfiles/" "~/Development/rust/aug31/" "~/Development/rust/aug31_2/" "~/Development/Experimenting/")
